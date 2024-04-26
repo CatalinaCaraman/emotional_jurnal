@@ -1,0 +1,1 @@
+//informatii despre fiecare emotie

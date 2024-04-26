@@ -1,0 +1,1 @@
+//statistica, grafice pe baza emotiilor alese in pagina EmotionalState (how often happy, sad...)
